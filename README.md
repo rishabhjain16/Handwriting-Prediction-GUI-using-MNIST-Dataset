@@ -38,3 +38,6 @@ Example: python3 Digit_prediction_GUI_MNIST.py
 1. https://data-flair.training/
 
 ## Example Images:
+![Example 1 - Predicting number 2](https://github.com/rishabhjain16/Handwriting-Prediction-GUI-using-MNIST-Dataset/blob/master/Example%201.PNG)
+![Example 2 - Predicting number 8](https://github.com/rishabhjain16/Handwriting-Prediction-GUI-using-MNIST-Dataset/blob/master/Example%202.PNG)
+![Example 3 - Predicting number 7](https://github.com/rishabhjain16/Handwriting-Prediction-GUI-using-MNIST-Dataset/blob/master/Example%204.PNG)
