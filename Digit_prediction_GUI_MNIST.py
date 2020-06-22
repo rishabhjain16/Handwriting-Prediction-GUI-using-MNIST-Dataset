@@ -26,7 +26,7 @@ class GUI_App(tk.Tk):
 
         self.x = self.y = 0
         
-        # Canvas creationg, buttons and labels
+        # Canvas creation, buttons and labels
         self.canvas = tk.Canvas(self, width=300, height=300, bg = "white", cursor="cross")
         self.label = tk.Label(self, text="Draw here", font=("Arial", 48))
         self.predict_btn = tk.Button(self, text = "Predict", command = self.handwriting_prediction_model)   
